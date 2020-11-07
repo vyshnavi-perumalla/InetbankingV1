@@ -1,0 +1,2 @@
+C:\Users\ASUS\PROJECTSTOUPLOADINGIT\.metadata\InetbankingV1
+mvn clean install
